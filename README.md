@@ -61,4 +61,4 @@ WhateverGreen：WhateverGreen.kext/版本1.3.5
 机型：iMacPro1.1/iMac19.1均可
 
 # 其他
-保持更新
+更新日期：2020-01-27
